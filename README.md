@@ -1,5 +1,5 @@
 # Substrate Offchain Price Fetch 
-Fetch Price.. Simple Substrate Offchain Price Feed Pallet
+Fetch Price.. Simple Substrate Offchain Price Oracle Pallet
 
 ## Acknowledgement
 
