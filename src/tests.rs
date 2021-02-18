@@ -82,7 +82,7 @@ impl Trait for TestRuntime {
   type Call = Call;
   type SubmitUnsignedTransaction = SubmitPFTransaction;
 
-  // Wait period between automated fetches. Set to 0 disable this feature.
+  // Wait period between automated fetches. Set to 0 to disable this feature.
   //   Then you need to manucally kickoff pricefetch
   type BlockFetchDur = BlockFetchDur;
 }
