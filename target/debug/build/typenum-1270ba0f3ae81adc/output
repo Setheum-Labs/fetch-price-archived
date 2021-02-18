@@ -1,2 +1,0 @@
-cargo:rustc-env=TYPENUM_BUILD_CONSTS=/home/iamkhalifaMBA/Documents/GitHub/fetch-price/target/debug/build/typenum-1270ba0f3ae81adc/out/consts.rs
-cargo:rustc-env=TYPENUM_BUILD_OP=/home/iamkhalifaMBA/Documents/GitHub/fetch-price/target/debug/build/typenum-1270ba0f3ae81adc/out/op.rs
