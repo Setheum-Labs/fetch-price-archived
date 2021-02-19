@@ -1,0 +1,9 @@
+/home/iamkhalifaMBA/Documents/GitHub/fetch-price/target/rls/debug/deps/sp_application_crypto-64e2de9024aa543e.rmeta: /home/iamkhalifaMBA/.cargo/registry/src/github.com-1ecc6299db9ec823/sp-application-crypto-3.0.0/src/lib.rs /home/iamkhalifaMBA/.cargo/registry/src/github.com-1ecc6299db9ec823/sp-application-crypto-3.0.0/src/ed25519.rs /home/iamkhalifaMBA/.cargo/registry/src/github.com-1ecc6299db9ec823/sp-application-crypto-3.0.0/src/sr25519.rs /home/iamkhalifaMBA/.cargo/registry/src/github.com-1ecc6299db9ec823/sp-application-crypto-3.0.0/src/ecdsa.rs /home/iamkhalifaMBA/.cargo/registry/src/github.com-1ecc6299db9ec823/sp-application-crypto-3.0.0/src/traits.rs
+
+/home/iamkhalifaMBA/Documents/GitHub/fetch-price/target/rls/debug/deps/sp_application_crypto-64e2de9024aa543e.d: /home/iamkhalifaMBA/.cargo/registry/src/github.com-1ecc6299db9ec823/sp-application-crypto-3.0.0/src/lib.rs /home/iamkhalifaMBA/.cargo/registry/src/github.com-1ecc6299db9ec823/sp-application-crypto-3.0.0/src/ed25519.rs /home/iamkhalifaMBA/.cargo/registry/src/github.com-1ecc6299db9ec823/sp-application-crypto-3.0.0/src/sr25519.rs /home/iamkhalifaMBA/.cargo/registry/src/github.com-1ecc6299db9ec823/sp-application-crypto-3.0.0/src/ecdsa.rs /home/iamkhalifaMBA/.cargo/registry/src/github.com-1ecc6299db9ec823/sp-application-crypto-3.0.0/src/traits.rs
+
+/home/iamkhalifaMBA/.cargo/registry/src/github.com-1ecc6299db9ec823/sp-application-crypto-3.0.0/src/lib.rs:
+/home/iamkhalifaMBA/.cargo/registry/src/github.com-1ecc6299db9ec823/sp-application-crypto-3.0.0/src/ed25519.rs:
+/home/iamkhalifaMBA/.cargo/registry/src/github.com-1ecc6299db9ec823/sp-application-crypto-3.0.0/src/sr25519.rs:
+/home/iamkhalifaMBA/.cargo/registry/src/github.com-1ecc6299db9ec823/sp-application-crypto-3.0.0/src/ecdsa.rs:
+/home/iamkhalifaMBA/.cargo/registry/src/github.com-1ecc6299db9ec823/sp-application-crypto-3.0.0/src/traits.rs:
